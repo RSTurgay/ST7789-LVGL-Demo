@@ -1673,8 +1673,8 @@ pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bu
 
 # All Build rule for target.
 app/CMakeFiles/st7789_lvgl_demo.dir/all: pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/all
-app/CMakeFiles/st7789_lvgl_demo.dir/all: app/CMakeFiles/ELF2UF2Build.dir/all
 app/CMakeFiles/st7789_lvgl_demo.dir/all: third-party/lvgl/CMakeFiles/lvgl.dir/all
+app/CMakeFiles/st7789_lvgl_demo.dir/all: app/CMakeFiles/ELF2UF2Build.dir/all
 	$(MAKE) $(MAKESILENT) -f app\CMakeFiles\st7789_lvgl_demo.dir\build.make app/CMakeFiles/st7789_lvgl_demo.dir/depend
 	$(MAKE) $(MAKESILENT) -f app\CMakeFiles\st7789_lvgl_demo.dir\build.make app/CMakeFiles/st7789_lvgl_demo.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles --progress-num=91,92,93,94,95,96,97,98,99,100 "Built target st7789_lvgl_demo"
@@ -1752,7 +1752,7 @@ third-party/lvgl/CMakeFiles/lvgl.dir/clean:
 # Target rules for target third-party/lvgl/CMakeFiles/lvgl_thorvg.dir
 
 # All Build rule for target.
-third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/all: third-party/lvgl/CMakeFiles/lvgl.dir/all
+third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/all:
 	$(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl_thorvg.dir\build.make third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/depend
 	$(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl_thorvg.dir\build.make third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles --progress-num=86,87,88,89,90 "Built target lvgl_thorvg"
@@ -1760,7 +1760,7 @@ third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/all: third-party/lvgl/CMakeFiles/lvg
 
 # Build rule for subdir invocation for target.
 third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles 44
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles 0
 .PHONY : third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/rule

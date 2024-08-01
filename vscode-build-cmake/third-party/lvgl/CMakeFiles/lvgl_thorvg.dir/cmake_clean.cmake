@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "../../lib/liblvgl_thorvg.a"
-  "../../lib/liblvgl_thorvg.pdb"
   "CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAnimation.cpp.obj"
   "CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAnimation.cpp.obj.d"
   "CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.obj"
@@ -71,6 +69,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgXmlParser.cpp.obj.d"
   "CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.obj"
   "CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.obj.d"
+  "liblvgl_thorvg.a"
+  "liblvgl_thorvg.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

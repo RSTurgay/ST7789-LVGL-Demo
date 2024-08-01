@@ -50,46 +50,10 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "C:/Program Files (x86)/st7789_lvgl_demo/include/lvgl//examples")
-  if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
-    message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
-  endif()
-  if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
-    message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
-  endif()
-  file(INSTALL DESTINATION "C:/Program Files (x86)/st7789_lvgl_demo/include/lvgl/" TYPE DIRECTORY FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/examples" FILES_MATCHING REGEX "/[^/]*\\.h$")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "C:/Program Files (x86)/st7789_lvgl_demo/include/lvgl//demos")
-  if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
-    message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
-  endif()
-  if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
-    message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
-  endif()
-  file(INSTALL DESTINATION "C:/Program Files (x86)/st7789_lvgl_demo/include/lvgl/" TYPE DIRECTORY FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/demos" FILES_MATCHING REGEX "/[^/]*\\.h$")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl/lvgl.pc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/lib/liblvgl.a")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/lib/liblvgl_thorvg.a")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/lib/liblvgl_demos.a")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/lib/liblvgl_examples.a")
 endif()
 

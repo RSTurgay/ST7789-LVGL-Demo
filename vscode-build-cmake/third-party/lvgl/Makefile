@@ -5040,30 +5040,6 @@ examples/porting/lv_port_indev_template.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl_examples.dir\build.make third-party/lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.s
 .PHONY : examples/porting/lv_port_indev_template.c.s
 
-examples/porting/lv_port_lcd_stm32_template.obj: examples/porting/lv_port_lcd_stm32_template.c.obj
-.PHONY : examples/porting/lv_port_lcd_stm32_template.obj
-
-# target to build an object file
-examples/porting/lv_port_lcd_stm32_template.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl_examples.dir\build.make third-party/lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.obj
-.PHONY : examples/porting/lv_port_lcd_stm32_template.c.obj
-
-examples/porting/lv_port_lcd_stm32_template.i: examples/porting/lv_port_lcd_stm32_template.c.i
-.PHONY : examples/porting/lv_port_lcd_stm32_template.i
-
-# target to preprocess a source file
-examples/porting/lv_port_lcd_stm32_template.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl_examples.dir\build.make third-party/lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.i
-.PHONY : examples/porting/lv_port_lcd_stm32_template.c.i
-
-examples/porting/lv_port_lcd_stm32_template.s: examples/porting/lv_port_lcd_stm32_template.c.s
-.PHONY : examples/porting/lv_port_lcd_stm32_template.s
-
-# target to generate assembly for a file
-examples/porting/lv_port_lcd_stm32_template.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl_examples.dir\build.make third-party/lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.s
-.PHONY : examples/porting/lv_port_lcd_stm32_template.c.s
-
 examples/scroll/lv_example_scroll_1.obj: examples/scroll/lv_example_scroll_1.c.obj
 .PHONY : examples/scroll/lv_example_scroll_1.obj
 
@@ -8232,6 +8208,30 @@ src/draw/lv_draw_vector.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/lv_draw_vector.c.s
 .PHONY : src/draw/lv_draw_vector.c.s
 
+src/draw/lv_image_buf.obj: src/draw/lv_image_buf.c.obj
+.PHONY : src/draw/lv_image_buf.obj
+
+# target to build an object file
+src/draw/lv_image_buf.c.obj:
+	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/lv_image_buf.c.obj
+.PHONY : src/draw/lv_image_buf.c.obj
+
+src/draw/lv_image_buf.i: src/draw/lv_image_buf.c.i
+.PHONY : src/draw/lv_image_buf.i
+
+# target to preprocess a source file
+src/draw/lv_image_buf.c.i:
+	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/lv_image_buf.c.i
+.PHONY : src/draw/lv_image_buf.c.i
+
+src/draw/lv_image_buf.s: src/draw/lv_image_buf.c.s
+.PHONY : src/draw/lv_image_buf.s
+
+# target to generate assembly for a file
+src/draw/lv_image_buf.c.s:
+	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/lv_image_buf.c.s
+.PHONY : src/draw/lv_image_buf.c.s
+
 src/draw/lv_image_decoder.obj: src/draw/lv_image_decoder.c.obj
 .PHONY : src/draw/lv_image_decoder.obj
 
@@ -9048,14 +9048,6 @@ src/draw/sdl/lv_draw_sdl.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/sdl/lv_draw_sdl.c.s
 .PHONY : src/draw/sdl/lv_draw_sdl.c.s
 
-src/draw/sw/blend/helium/lv_blend_helium.obj: src/draw/sw/blend/helium/lv_blend_helium.S.obj
-.PHONY : src/draw/sw/blend/helium/lv_blend_helium.obj
-
-# target to build an object file
-src/draw/sw/blend/helium/lv_blend_helium.S.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/helium/lv_blend_helium.S.obj
-.PHONY : src/draw/sw/blend/helium/lv_blend_helium.S.obj
-
 src/draw/sw/blend/lv_draw_sw_blend.obj: src/draw/sw/blend/lv_draw_sw_blend.c.obj
 .PHONY : src/draw/sw/blend/lv_draw_sw_blend.obj
 
@@ -9832,30 +9824,6 @@ src/draw/vg_lite/lv_vg_lite_decoder.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_decoder.c.s
 .PHONY : src/draw/vg_lite/lv_vg_lite_decoder.c.s
 
-src/draw/vg_lite/lv_vg_lite_grad.obj: src/draw/vg_lite/lv_vg_lite_grad.c.obj
-.PHONY : src/draw/vg_lite/lv_vg_lite_grad.obj
-
-# target to build an object file
-src/draw/vg_lite/lv_vg_lite_grad.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_grad.c.obj
-.PHONY : src/draw/vg_lite/lv_vg_lite_grad.c.obj
-
-src/draw/vg_lite/lv_vg_lite_grad.i: src/draw/vg_lite/lv_vg_lite_grad.c.i
-.PHONY : src/draw/vg_lite/lv_vg_lite_grad.i
-
-# target to preprocess a source file
-src/draw/vg_lite/lv_vg_lite_grad.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_grad.c.i
-.PHONY : src/draw/vg_lite/lv_vg_lite_grad.c.i
-
-src/draw/vg_lite/lv_vg_lite_grad.s: src/draw/vg_lite/lv_vg_lite_grad.c.s
-.PHONY : src/draw/vg_lite/lv_vg_lite_grad.s
-
-# target to generate assembly for a file
-src/draw/vg_lite/lv_vg_lite_grad.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_grad.c.s
-.PHONY : src/draw/vg_lite/lv_vg_lite_grad.c.s
-
 src/draw/vg_lite/lv_vg_lite_math.obj: src/draw/vg_lite/lv_vg_lite_math.c.obj
 .PHONY : src/draw/vg_lite/lv_vg_lite_math.obj
 
@@ -9903,30 +9871,6 @@ src/draw/vg_lite/lv_vg_lite_path.s: src/draw/vg_lite/lv_vg_lite_path.c.s
 src/draw/vg_lite/lv_vg_lite_path.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_path.c.s
 .PHONY : src/draw/vg_lite/lv_vg_lite_path.c.s
-
-src/draw/vg_lite/lv_vg_lite_pending.obj: src/draw/vg_lite/lv_vg_lite_pending.c.obj
-.PHONY : src/draw/vg_lite/lv_vg_lite_pending.obj
-
-# target to build an object file
-src/draw/vg_lite/lv_vg_lite_pending.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_pending.c.obj
-.PHONY : src/draw/vg_lite/lv_vg_lite_pending.c.obj
-
-src/draw/vg_lite/lv_vg_lite_pending.i: src/draw/vg_lite/lv_vg_lite_pending.c.i
-.PHONY : src/draw/vg_lite/lv_vg_lite_pending.i
-
-# target to preprocess a source file
-src/draw/vg_lite/lv_vg_lite_pending.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_pending.c.i
-.PHONY : src/draw/vg_lite/lv_vg_lite_pending.c.i
-
-src/draw/vg_lite/lv_vg_lite_pending.s: src/draw/vg_lite/lv_vg_lite_pending.c.s
-.PHONY : src/draw/vg_lite/lv_vg_lite_pending.s
-
-# target to generate assembly for a file
-src/draw/vg_lite/lv_vg_lite_pending.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_pending.c.s
-.PHONY : src/draw/vg_lite/lv_vg_lite_pending.c.s
 
 src/draw/vg_lite/lv_vg_lite_utils.obj: src/draw/vg_lite/lv_vg_lite_utils.c.obj
 .PHONY : src/draw/vg_lite/lv_vg_lite_utils.obj
@@ -10144,54 +10088,6 @@ src/drivers/evdev/lv_evdev.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/evdev/lv_evdev.c.s
 .PHONY : src/drivers/evdev/lv_evdev.c.s
 
-src/drivers/libinput/lv_libinput.obj: src/drivers/libinput/lv_libinput.c.obj
-.PHONY : src/drivers/libinput/lv_libinput.obj
-
-# target to build an object file
-src/drivers/libinput/lv_libinput.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_libinput.c.obj
-.PHONY : src/drivers/libinput/lv_libinput.c.obj
-
-src/drivers/libinput/lv_libinput.i: src/drivers/libinput/lv_libinput.c.i
-.PHONY : src/drivers/libinput/lv_libinput.i
-
-# target to preprocess a source file
-src/drivers/libinput/lv_libinput.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_libinput.c.i
-.PHONY : src/drivers/libinput/lv_libinput.c.i
-
-src/drivers/libinput/lv_libinput.s: src/drivers/libinput/lv_libinput.c.s
-.PHONY : src/drivers/libinput/lv_libinput.s
-
-# target to generate assembly for a file
-src/drivers/libinput/lv_libinput.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_libinput.c.s
-.PHONY : src/drivers/libinput/lv_libinput.c.s
-
-src/drivers/libinput/lv_xkb.obj: src/drivers/libinput/lv_xkb.c.obj
-.PHONY : src/drivers/libinput/lv_xkb.obj
-
-# target to build an object file
-src/drivers/libinput/lv_xkb.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_xkb.c.obj
-.PHONY : src/drivers/libinput/lv_xkb.c.obj
-
-src/drivers/libinput/lv_xkb.i: src/drivers/libinput/lv_xkb.c.i
-.PHONY : src/drivers/libinput/lv_xkb.i
-
-# target to preprocess a source file
-src/drivers/libinput/lv_xkb.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_xkb.c.i
-.PHONY : src/drivers/libinput/lv_xkb.c.i
-
-src/drivers/libinput/lv_xkb.s: src/drivers/libinput/lv_xkb.c.s
-.PHONY : src/drivers/libinput/lv_xkb.s
-
-# target to generate assembly for a file
-src/drivers/libinput/lv_xkb.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_xkb.c.s
-.PHONY : src/drivers/libinput/lv_xkb.c.s
-
 src/drivers/nuttx/lv_nuttx_cache.obj: src/drivers/nuttx/lv_nuttx_cache.c.obj
 .PHONY : src/drivers/nuttx/lv_nuttx_cache.obj
 
@@ -10263,30 +10159,6 @@ src/drivers/nuttx/lv_nuttx_fbdev.s: src/drivers/nuttx/lv_nuttx_fbdev.c.s
 src/drivers/nuttx/lv_nuttx_fbdev.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_fbdev.c.s
 .PHONY : src/drivers/nuttx/lv_nuttx_fbdev.c.s
-
-src/drivers/nuttx/lv_nuttx_image_cache.obj: src/drivers/nuttx/lv_nuttx_image_cache.c.obj
-.PHONY : src/drivers/nuttx/lv_nuttx_image_cache.obj
-
-# target to build an object file
-src/drivers/nuttx/lv_nuttx_image_cache.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_image_cache.c.obj
-.PHONY : src/drivers/nuttx/lv_nuttx_image_cache.c.obj
-
-src/drivers/nuttx/lv_nuttx_image_cache.i: src/drivers/nuttx/lv_nuttx_image_cache.c.i
-.PHONY : src/drivers/nuttx/lv_nuttx_image_cache.i
-
-# target to preprocess a source file
-src/drivers/nuttx/lv_nuttx_image_cache.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_image_cache.c.i
-.PHONY : src/drivers/nuttx/lv_nuttx_image_cache.c.i
-
-src/drivers/nuttx/lv_nuttx_image_cache.s: src/drivers/nuttx/lv_nuttx_image_cache.c.s
-.PHONY : src/drivers/nuttx/lv_nuttx_image_cache.s
-
-# target to generate assembly for a file
-src/drivers/nuttx/lv_nuttx_image_cache.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_image_cache.c.s
-.PHONY : src/drivers/nuttx/lv_nuttx_image_cache.c.s
 
 src/drivers/nuttx/lv_nuttx_lcd.obj: src/drivers/nuttx/lv_nuttx_lcd.c.obj
 .PHONY : src/drivers/nuttx/lv_nuttx_lcd.obj
@@ -11703,30 +11575,6 @@ src/libs/fsdrv/lv_fs_fatfs.s: src/libs/fsdrv/lv_fs_fatfs.c.s
 src/libs/fsdrv/lv_fs_fatfs.c.s:
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_fatfs.c.s
 .PHONY : src/libs/fsdrv/lv_fs_fatfs.c.s
-
-src/libs/fsdrv/lv_fs_littlefs.obj: src/libs/fsdrv/lv_fs_littlefs.c.obj
-.PHONY : src/libs/fsdrv/lv_fs_littlefs.obj
-
-# target to build an object file
-src/libs/fsdrv/lv_fs_littlefs.c.obj:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_littlefs.c.obj
-.PHONY : src/libs/fsdrv/lv_fs_littlefs.c.obj
-
-src/libs/fsdrv/lv_fs_littlefs.i: src/libs/fsdrv/lv_fs_littlefs.c.i
-.PHONY : src/libs/fsdrv/lv_fs_littlefs.i
-
-# target to preprocess a source file
-src/libs/fsdrv/lv_fs_littlefs.c.i:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_littlefs.c.i
-.PHONY : src/libs/fsdrv/lv_fs_littlefs.c.i
-
-src/libs/fsdrv/lv_fs_littlefs.s: src/libs/fsdrv/lv_fs_littlefs.c.s
-.PHONY : src/libs/fsdrv/lv_fs_littlefs.s
-
-# target to generate assembly for a file
-src/libs/fsdrv/lv_fs_littlefs.c.s:
-	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake && $(MAKE) $(MAKESILENT) -f third-party\lvgl\CMakeFiles\lvgl.dir\build.make third-party/lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_littlefs.c.s
-.PHONY : src/libs/fsdrv/lv_fs_littlefs.c.s
 
 src/libs/fsdrv/lv_fs_memfs.obj: src/libs/fsdrv/lv_fs_memfs.c.obj
 .PHONY : src/libs/fsdrv/lv_fs_memfs.obj
@@ -15947,9 +15795,6 @@ help:
 	@echo ... examples/porting/lv_port_indev_template.obj
 	@echo ... examples/porting/lv_port_indev_template.i
 	@echo ... examples/porting/lv_port_indev_template.s
-	@echo ... examples/porting/lv_port_lcd_stm32_template.obj
-	@echo ... examples/porting/lv_port_lcd_stm32_template.i
-	@echo ... examples/porting/lv_port_lcd_stm32_template.s
 	@echo ... examples/scroll/lv_example_scroll_1.obj
 	@echo ... examples/scroll/lv_example_scroll_1.i
 	@echo ... examples/scroll/lv_example_scroll_1.s
@@ -16346,6 +16191,9 @@ help:
 	@echo ... src/draw/lv_draw_vector.obj
 	@echo ... src/draw/lv_draw_vector.i
 	@echo ... src/draw/lv_draw_vector.s
+	@echo ... src/draw/lv_image_buf.obj
+	@echo ... src/draw/lv_image_buf.i
+	@echo ... src/draw/lv_image_buf.s
 	@echo ... src/draw/lv_image_decoder.obj
 	@echo ... src/draw/lv_image_decoder.i
 	@echo ... src/draw/lv_image_decoder.s
@@ -16448,7 +16296,6 @@ help:
 	@echo ... src/draw/sdl/lv_draw_sdl.obj
 	@echo ... src/draw/sdl/lv_draw_sdl.i
 	@echo ... src/draw/sdl/lv_draw_sdl.s
-	@echo ... src/draw/sw/blend/helium/lv_blend_helium.obj
 	@echo ... src/draw/sw/blend/lv_draw_sw_blend.obj
 	@echo ... src/draw/sw/blend/lv_draw_sw_blend.i
 	@echo ... src/draw/sw/blend/lv_draw_sw_blend.s
@@ -16546,18 +16393,12 @@ help:
 	@echo ... src/draw/vg_lite/lv_vg_lite_decoder.obj
 	@echo ... src/draw/vg_lite/lv_vg_lite_decoder.i
 	@echo ... src/draw/vg_lite/lv_vg_lite_decoder.s
-	@echo ... src/draw/vg_lite/lv_vg_lite_grad.obj
-	@echo ... src/draw/vg_lite/lv_vg_lite_grad.i
-	@echo ... src/draw/vg_lite/lv_vg_lite_grad.s
 	@echo ... src/draw/vg_lite/lv_vg_lite_math.obj
 	@echo ... src/draw/vg_lite/lv_vg_lite_math.i
 	@echo ... src/draw/vg_lite/lv_vg_lite_math.s
 	@echo ... src/draw/vg_lite/lv_vg_lite_path.obj
 	@echo ... src/draw/vg_lite/lv_vg_lite_path.i
 	@echo ... src/draw/vg_lite/lv_vg_lite_path.s
-	@echo ... src/draw/vg_lite/lv_vg_lite_pending.obj
-	@echo ... src/draw/vg_lite/lv_vg_lite_pending.i
-	@echo ... src/draw/vg_lite/lv_vg_lite_pending.s
 	@echo ... src/draw/vg_lite/lv_vg_lite_utils.obj
 	@echo ... src/draw/vg_lite/lv_vg_lite_utils.i
 	@echo ... src/draw/vg_lite/lv_vg_lite_utils.s
@@ -16585,12 +16426,6 @@ help:
 	@echo ... src/drivers/evdev/lv_evdev.obj
 	@echo ... src/drivers/evdev/lv_evdev.i
 	@echo ... src/drivers/evdev/lv_evdev.s
-	@echo ... src/drivers/libinput/lv_libinput.obj
-	@echo ... src/drivers/libinput/lv_libinput.i
-	@echo ... src/drivers/libinput/lv_libinput.s
-	@echo ... src/drivers/libinput/lv_xkb.obj
-	@echo ... src/drivers/libinput/lv_xkb.i
-	@echo ... src/drivers/libinput/lv_xkb.s
 	@echo ... src/drivers/nuttx/lv_nuttx_cache.obj
 	@echo ... src/drivers/nuttx/lv_nuttx_cache.i
 	@echo ... src/drivers/nuttx/lv_nuttx_cache.s
@@ -16600,9 +16435,6 @@ help:
 	@echo ... src/drivers/nuttx/lv_nuttx_fbdev.obj
 	@echo ... src/drivers/nuttx/lv_nuttx_fbdev.i
 	@echo ... src/drivers/nuttx/lv_nuttx_fbdev.s
-	@echo ... src/drivers/nuttx/lv_nuttx_image_cache.obj
-	@echo ... src/drivers/nuttx/lv_nuttx_image_cache.i
-	@echo ... src/drivers/nuttx/lv_nuttx_image_cache.s
 	@echo ... src/drivers/nuttx/lv_nuttx_lcd.obj
 	@echo ... src/drivers/nuttx/lv_nuttx_lcd.i
 	@echo ... src/drivers/nuttx/lv_nuttx_lcd.s
@@ -16780,9 +16612,6 @@ help:
 	@echo ... src/libs/fsdrv/lv_fs_fatfs.obj
 	@echo ... src/libs/fsdrv/lv_fs_fatfs.i
 	@echo ... src/libs/fsdrv/lv_fs_fatfs.s
-	@echo ... src/libs/fsdrv/lv_fs_littlefs.obj
-	@echo ... src/libs/fsdrv/lv_fs_littlefs.i
-	@echo ... src/libs/fsdrv/lv_fs_littlefs.s
 	@echo ... src/libs/fsdrv/lv_fs_memfs.obj
 	@echo ... src/libs/fsdrv/lv_fs_memfs.i
 	@echo ... src/libs/fsdrv/lv_fs_memfs.s

@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "../../lib/liblvgl_demos.a"
-  "../../lib/liblvgl_demos.pdb"
   "CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.obj"
   "CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_alpha256.c.obj.d"
   "CMakeFiles/lvgl_demos.dir/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj"
@@ -235,6 +233,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/lvgl_demos.dir/demos/widgets/assets/img_lvgl_logo.c.obj.d"
   "CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.obj"
   "CMakeFiles/lvgl_demos.dir/demos/widgets/lv_demo_widgets.c.obj.d"
+  "liblvgl_demos.a"
+  "liblvgl_demos.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

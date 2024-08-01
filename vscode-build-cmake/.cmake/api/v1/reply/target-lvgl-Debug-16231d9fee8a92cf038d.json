@@ -46,7 +46,7 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 127,
+				"line" : 103,
 				"parent" : 2
 			},
 			{
@@ -58,7 +58,7 @@
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 44,
+				"line" : 39,
 				"parent" : 2
 			}
 		]
@@ -160,6 +160,7 @@
 				55,
 				56,
 				57,
+				58,
 				59,
 				60,
 				61,
@@ -379,13 +380,7 @@
 				276,
 				277,
 				278,
-				279,
-				280,
-				281,
-				282,
-				283,
-				284,
-				285
+				279
 			]
 		},
 		{
@@ -421,7 +416,6 @@
 			"language" : "ASM",
 			"sourceIndexes" : 
 			[
-				58,
 				63
 			]
 		}
@@ -512,6 +506,7 @@
 				55,
 				56,
 				57,
+				58,
 				59,
 				60,
 				61,
@@ -731,20 +726,13 @@
 				276,
 				277,
 				278,
-				279,
-				280,
-				281,
-				282,
-				283,
-				284,
-				285
+				279
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				58,
 				63
 			]
 		}
@@ -893,6 +881,12 @@
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/draw/lv_draw_vector.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"compileGroupIndex" : 0,
+			"path" : "third-party/lvgl/src/draw/lv_image_buf.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1101,12 +1095,6 @@
 		},
 		{
 			"backtrace" : 3,
-			"compileGroupIndex" : 1,
-			"path" : "third-party/lvgl/src/draw/sw/blend/helium/lv_blend_helium.S",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/draw/sw/blend/lv_draw_sw_blend.c",
 			"sourceGroupIndex" : 0
@@ -1306,12 +1294,6 @@
 		{
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/src/draw/vg_lite/lv_vg_lite_grad.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/draw/vg_lite/lv_vg_lite_math.c",
 			"sourceGroupIndex" : 0
 		},
@@ -1319,12 +1301,6 @@
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/draw/vg_lite/lv_vg_lite_path.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/src/draw/vg_lite/lv_vg_lite_pending.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1384,18 +1360,6 @@
 		{
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/src/drivers/libinput/lv_libinput.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/src/drivers/libinput/lv_xkb.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/drivers/nuttx/lv_nuttx_cache.c",
 			"sourceGroupIndex" : 0
 		},
@@ -1409,12 +1373,6 @@
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/src/drivers/nuttx/lv_nuttx_image_cache.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1769,12 +1727,6 @@
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/src/libs/fsdrv/lv_fs_fatfs.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/src/libs/fsdrv/lv_fs_littlefs.c",
 			"sourceGroupIndex" : 0
 		},
 		{

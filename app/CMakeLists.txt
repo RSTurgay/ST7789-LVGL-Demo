@@ -4,7 +4,6 @@ add_executable(st7789_lvgl_demo)
 # Add source files
 target_sources(st7789_lvgl_demo PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/inc/main.h
-    ${CMAKE_CURRENT_SOURCE_DIR}/inc/lv_conf.h
     ${CMAKE_CURRENT_SOURCE_DIR}/src/main.c
 )
 

@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/liblvgl_demos.a"
+			"path" : "third-party/lvgl/liblvgl_demos.a"
 		}
 	],
 	"backtrace" : 3,
@@ -13,7 +13,6 @@
 		[
 			"add_library",
 			"include",
-			"install",
 			"target_link_libraries",
 			"target_include_directories"
 		],
@@ -40,25 +39,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 65,
+				"line" : 62,
 				"parent" : 2
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 163,
+				"line" : 66,
 				"parent" : 2
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 69,
-				"parent" : 2
-			},
-			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 68,
+				"line" : 65,
 				"parent" : 2
 			}
 		]
@@ -75,23 +68,23 @@
 			"defines" : 
 			[
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"define" : "LV_CONF_INCLUDE_SIMPLE"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
 				}
 			],
 			"includes" : 
 			[
 				{
-					"backtrace" : 6,
+					"backtrace" : 5,
 					"isSystem" : true,
 					"path" : "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/demos"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"isSystem" : true,
 					"path" : "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl"
 				}
@@ -230,25 +223,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 5,
+			"backtrace" : 4,
 			"id" : "lvgl::@6973831e14f25c83031d"
 		}
 	],
 	"id" : "lvgl_demos::@6973831e14f25c83031d",
-	"install" : 
-	{
-		"destinations" : 
-		[
-			{
-				"backtrace" : 4,
-				"path" : "lib"
-			}
-		],
-		"prefix" : 
-		{
-			"path" : "C:/Program Files (x86)/st7789_lvgl_demo"
-		}
-	},
 	"name" : "lvgl_demos",
 	"nameOnDisk" : "liblvgl_demos.a",
 	"paths" : 

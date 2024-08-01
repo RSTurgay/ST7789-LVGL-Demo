@@ -4,6 +4,7 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_kconfig.h \
+ C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl/lv_conf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_assert.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_log.h \
  c:\progra~2\gnuarm~1\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
@@ -44,9 +45,8 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/sw/lv_draw_sw_gradient.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_draw_buf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_area.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_image_buf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\stdlib\lv_string.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_image_dsc.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_area.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\cache\lv_cache.h \

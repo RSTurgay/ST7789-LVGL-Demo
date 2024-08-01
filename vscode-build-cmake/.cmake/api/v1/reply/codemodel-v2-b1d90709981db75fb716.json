@@ -1031,7 +1031,7 @@
 				{
 					"build" : "third-party/lvgl",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-third-party.lvgl-Debug-32440a123cd462091908.json",
+					"jsonFile" : "directory-third-party.lvgl-Debug-2056060df71802db2735.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12.4"
@@ -1185,7 +1185,7 @@
 				{
 					"directoryIndex" : 81,
 					"id" : "ELF2UF2Build::@5f5a17c01335469806cb",
-					"jsonFile" : "target-ELF2UF2Build-Debug-54ca234a5a6dfb9a7459.json",
+					"jsonFile" : "target-ELF2UF2Build-Debug-69c14e02c605a69d3371.json",
 					"name" : "ELF2UF2Build",
 					"projectIndex" : 0
 				},
@@ -1227,35 +1227,35 @@
 				{
 					"directoryIndex" : 82,
 					"id" : "lvgl::@6973831e14f25c83031d",
-					"jsonFile" : "target-lvgl-Debug-1133eb8f6fbec4d12453.json",
+					"jsonFile" : "target-lvgl-Debug-16231d9fee8a92cf038d.json",
 					"name" : "lvgl",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 82,
 					"id" : "lvgl_demos::@6973831e14f25c83031d",
-					"jsonFile" : "target-lvgl_demos-Debug-916348ef013c018514fb.json",
+					"jsonFile" : "target-lvgl_demos-Debug-9ad19d8899a99f3d39fb.json",
 					"name" : "lvgl_demos",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 82,
 					"id" : "lvgl_examples::@6973831e14f25c83031d",
-					"jsonFile" : "target-lvgl_examples-Debug-bcbd39c7a36a53bdccd1.json",
+					"jsonFile" : "target-lvgl_examples-Debug-e62b177b50c6ada7c4d3.json",
 					"name" : "lvgl_examples",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 82,
 					"id" : "lvgl_thorvg::@6973831e14f25c83031d",
-					"jsonFile" : "target-lvgl_thorvg-Debug-79262fb1e7663ca98e4b.json",
+					"jsonFile" : "target-lvgl_thorvg-Debug-a333d36443b1ed9d9b1e.json",
 					"name" : "lvgl_thorvg",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 81,
 					"id" : "st7789_lvgl_demo::@5f5a17c01335469806cb",
-					"jsonFile" : "target-st7789_lvgl_demo-Debug-0ffdc4138837711a87cd.json",
+					"jsonFile" : "target-st7789_lvgl_demo-Debug-122ff4c9078ef8043d08.json",
 					"name" : "st7789_lvgl_demo",
 					"projectIndex" : 0
 				}

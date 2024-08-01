@@ -1,0 +1,89 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"third-party/lvgl/env_support/cmake/custom.cmake",
+			"third-party/lvgl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 91,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 103,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/st7789_lvgl_demo/include/lvgl/",
+			"paths" : 
+			[
+				"third-party/lvgl/src"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"vscode-build-cmake/third-party/lvgl/lvgl.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/liblvgl.a"
+			],
+			"targetId" : "lvgl::@6973831e14f25c83031d",
+			"targetIndex" : 6,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "third-party/lvgl",
+		"source" : "third-party/lvgl"
+	}
+}

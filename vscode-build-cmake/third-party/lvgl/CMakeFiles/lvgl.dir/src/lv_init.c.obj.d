@@ -3,6 +3,7 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\core/lv_global.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_kconfig.h \
+ C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl/lv_conf.h \
  c:\progra~2\gnuarm~1\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
@@ -48,8 +49,8 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_palette.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color_op.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_image_buf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\stdlib\lv_string.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_image_dsc.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_area.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\cache\lv_cache.h \
@@ -130,6 +131,7 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color_op.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_ll.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_log.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_profiler_builtin.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_style.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_timer.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\others\sysmon\lv_sysmon.h \
@@ -185,19 +187,6 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/bmp/lv_bmp.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/ffmpeg/lv_ffmpeg.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\image\lv_image.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_fs.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_draw.h \
- C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/freetype/lv_freetype.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_event.h \
- C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/fsdrv/lv_fsdrv.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/gif/lv_gif.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/lv_init.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/lv_conf_internal.h \
@@ -213,7 +202,6 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/misc/lv_anim_timeline.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/misc/lv_anim.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/misc/lv_profiler_builtin.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/misc/lv_rb.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/misc/lv_assert.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/tick/lv_tick.h \
@@ -230,6 +218,10 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/font/lv_font.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/animimage/lv_animimage.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\image\lv_image.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_fs.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_draw.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/arc/lv_arc.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
@@ -260,8 +252,9 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\image\lv_image.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_draw_image.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/chart/lv_chart.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lvgl.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/checkbox/lv_checkbox.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
@@ -295,75 +288,68 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/slider/lv_slider.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\bar\lv_bar.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/span/lv_span.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/spinbox/lv_spinbox.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\textarea\lv_textarea.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\label\lv_label.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/spinner/lv_spinner.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/switch/lv_switch.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/table/lv_table.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\label\lv_label.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/tabview/lv_tabview.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/textarea/lv_textarea.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/tileview/lv_tileview.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/widgets/win/lv_win.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/snapshot/lv_snapshot.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/sysmon/lv_sysmon.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/monkey/lv_monkey.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\indev\lv_indev.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/gridnav/lv_gridnav.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/fragment/lv_fragment.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/imgfont/lv_imgfont.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\font\lv_font.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/observer/lv_observer.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/ime/lv_ime_pinyin.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/others/file_explorer/lv_file_explorer.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/barcode/lv_barcode.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\canvas\lv_canvas.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/bin_decoder/lv_bin_decoder.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/bmp/lv_bmp.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/rle/lv_rle.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/fsdrv/lv_fsdrv.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/lodepng/lv_lodepng.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/libpng/lv_libpng.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/gif/lv_gif.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/qrcode/lv_qrcode.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/tjpgd/lv_tjpgd.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/libjpeg_turbo/lv_libjpeg_turbo.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/freetype/lv_freetype.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/rlottie/lv_rlottie.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/ffmpeg/lv_ffmpeg.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/libs/tiny_ttf/lv_tiny_ttf.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/layouts/lv_layout.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/draw/lv_draw.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/draw/lv_draw_buf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/draw/lv_draw_vector.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/themes/lv_theme.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
@@ -392,7 +378,6 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/display/tft_espi/lv_tft_espi.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\display\lv_display.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/nuttx/lv_nuttx_entry.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\display\lv_display.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\indev\lv_indev.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/nuttx/lv_nuttx_fbdev.h \
@@ -401,16 +386,16 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/lv_init.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/nuttx/lv_nuttx_libuv.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/evdev/lv_evdev.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\indev\lv_indev.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/libinput/lv_libinput.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\indev\lv_indev.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/windows/lv_windows_input.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\display\lv_display.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\indev\lv_indev.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/drivers/windows/lv_windows_display.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/lv_api_map_v8.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/misc/lv_types.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/lv_api_map_v9_0.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/lv_api_map.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\lvgl.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src/core/lv_global.h \
+ C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/freetype/lv_freetype.h \
+ C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/fsdrv/lv_fsdrv.h \
+ C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/gif/lv_gif.h \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/tjpgd/lv_tjpgd.h \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/libjpeg_turbo/lv_libjpeg_turbo.h \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\libs/lodepng/lv_lodepng.h \

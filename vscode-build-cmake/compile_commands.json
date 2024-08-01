@@ -571,6 +571,12 @@
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\lv_image_buf.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\lv_image_buf.c",
+  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/lv_image_buf.c",
+  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/lv_image_buf.c.obj"
+},
+{
+  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\lv_image_decoder.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\lv_image_decoder.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/lv_image_decoder.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/lv_image_decoder.c.obj"
@@ -775,12 +781,6 @@
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -D__ASSEMBLY__ -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -o CMakeFiles\\lvgl.dir\\src\\draw\\sw\\blend\\helium\\lv_blend_helium.S.obj   -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\sw\\blend\\helium\\lv_blend_helium.S",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/sw/blend/helium/lv_blend_helium.S",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/helium/lv_blend_helium.S.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\sw\\blend\\lv_draw_sw_blend.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\sw\\blend\\lv_draw_sw_blend.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/sw/blend/lv_draw_sw_blend.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/sw/blend/lv_draw_sw_blend.c.obj"
@@ -979,12 +979,6 @@
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\vg_lite\\lv_vg_lite_grad.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\vg_lite\\lv_vg_lite_grad.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/vg_lite/lv_vg_lite_grad.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_grad.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\vg_lite\\lv_vg_lite_math.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\vg_lite\\lv_vg_lite_math.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/vg_lite/lv_vg_lite_math.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_math.c.obj"
@@ -994,12 +988,6 @@
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\vg_lite\\lv_vg_lite_path.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\vg_lite\\lv_vg_lite_path.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/vg_lite/lv_vg_lite_path.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_path.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\draw\\vg_lite\\lv_vg_lite_pending.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\draw\\vg_lite\\lv_vg_lite_pending.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/vg_lite/lv_vg_lite_pending.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/draw/vg_lite/lv_vg_lite_pending.c.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
@@ -1057,18 +1045,6 @@
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\drivers\\libinput\\lv_libinput.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\drivers\\libinput\\lv_libinput.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/drivers/libinput/lv_libinput.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_libinput.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\drivers\\libinput\\lv_xkb.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\drivers\\libinput\\lv_xkb.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/drivers/libinput/lv_xkb.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/libinput/lv_xkb.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\drivers\\nuttx\\lv_nuttx_cache.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\drivers\\nuttx\\lv_nuttx_cache.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/drivers/nuttx/lv_nuttx_cache.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_cache.c.obj"
@@ -1084,12 +1060,6 @@
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\drivers\\nuttx\\lv_nuttx_fbdev.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\drivers\\nuttx\\lv_nuttx_fbdev.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/drivers/nuttx/lv_nuttx_fbdev.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_fbdev.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\drivers\\nuttx\\lv_nuttx_image_cache.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\drivers\\nuttx\\lv_nuttx_image_cache.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/drivers/nuttx/lv_nuttx_image_cache.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_image_cache.c.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
@@ -1444,12 +1414,6 @@
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\libs\\fsdrv\\lv_fs_fatfs.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\fsdrv\\lv_fs_fatfs.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/fsdrv/lv_fs_fatfs.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_fatfs.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl.dir\\src\\libs\\fsdrv\\lv_fs_littlefs.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\fsdrv\\lv_fs_littlefs.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/fsdrv/lv_fs_littlefs.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl.dir/src/libs/fsdrv/lv_fs_littlefs.c.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
@@ -2143,211 +2107,211 @@
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgAnimation.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgAnimation.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgAnimation.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgAnimation.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgAnimation.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAnimation.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgBezier.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgBezier.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgBezier.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgBezier.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgBezier.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgCanvas.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgCanvas.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgCanvas.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgCanvas.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgCanvas.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCanvas.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgCapi.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgCapi.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgCapi.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgCapi.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgCapi.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCapi.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgCompressor.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgCompressor.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgCompressor.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgCompressor.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgCompressor.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCompressor.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgFill.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgFill.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgFill.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgFill.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgFill.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgFill.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgInitializer.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgInitializer.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgInitializer.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgInitializer.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgInitializer.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgInitializer.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgLoader.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgLoader.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgLoader.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgLoader.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgLoader.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLoader.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgMath.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgMath.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgMath.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgMath.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgMath.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgMath.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgPaint.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgPaint.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgPaint.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgPaint.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgPaint.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgPaint.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgPicture.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgPicture.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgPicture.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgPicture.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgPicture.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgPicture.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgRawLoader.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgRawLoader.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgRawLoader.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgRawLoader.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgRawLoader.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgRawLoader.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgRender.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgRender.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgRender.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgRender.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgRender.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgRender.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSaver.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSaver.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSaver.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSaver.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSaver.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSaver.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgScene.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgScene.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgScene.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgScene.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgScene.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgScene.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgShape.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgShape.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgShape.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgShape.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgShape.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgShape.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgStr.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgStr.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgStr.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgStr.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgStr.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgStr.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgCssStyle.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgCssStyle.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgCssStyle.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgCssStyle.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSvgCssStyle.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgCssStyle.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgLoader.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgLoader.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgLoader.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgLoader.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSvgLoader.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgLoader.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgPath.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgPath.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgPath.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgPath.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSvgPath.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgPath.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgSceneBuilder.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgSceneBuilder.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgSceneBuilder.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgSceneBuilder.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSvgSceneBuilder.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgSceneBuilder.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgUtil.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgUtil.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSvgUtil.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSvgUtil.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSvgUtil.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgUtil.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwCanvas.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwCanvas.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwCanvas.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwCanvas.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwCanvas.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwCanvas.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwFill.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwFill.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwFill.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwFill.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwFill.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwFill.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwImage.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwImage.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwImage.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwImage.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwImage.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwImage.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwMath.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwMath.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwMath.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwMath.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwMath.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMath.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwMemPool.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwMemPool.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwMemPool.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwMemPool.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwMemPool.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMemPool.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwRaster.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwRaster.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwRaster.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwRaster.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwRaster.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRaster.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwRenderer.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwRenderer.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwRenderer.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwRenderer.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwRenderer.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRenderer.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwRle.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwRle.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwRle.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwRle.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwRle.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRle.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwShape.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwShape.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwShape.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwShape.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwShape.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwShape.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwStroke.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwStroke.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgSwStroke.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgSwStroke.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgSwStroke.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwStroke.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgTaskScheduler.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgTaskScheduler.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgTaskScheduler.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgTaskScheduler.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgTaskScheduler.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgTaskScheduler.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgXmlParser.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgXmlParser.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\libs\\thorvg\\tvgXmlParser.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg\\tvgXmlParser.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg/tvgXmlParser.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgXmlParser.cpp.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\others\\vg_lite_tvg\\vg_lite_tvg.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\others\\vg_lite_tvg\\vg_lite_tvg.cpp",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR10B2~1.EXE  -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\libs\\thorvg -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17 -o CMakeFiles\\lvgl_thorvg.dir\\src\\others\\vg_lite_tvg\\vg_lite_tvg.cpp.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\src\\others\\vg_lite_tvg\\vg_lite_tvg.cpp",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/others/vg_lite_tvg/vg_lite_tvg.cpp",
   "output": "third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.obj"
 },
@@ -2854,12 +2818,6 @@
   "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\examples -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl_examples.dir\\examples\\porting\\lv_port_indev_template.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\examples\\porting\\lv_port_indev_template.c",
   "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/examples/porting/lv_port_indev_template.c",
   "output": "third-party/lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.obj"
-},
-{
-  "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",
-  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.10\\bin\\AR19DD~1.EXE -DLV_CONF_INCLUDE_SIMPLE -DLV_LVGL_H_INCLUDE_SIMPLE -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\examples -isystem C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11 -o CMakeFiles\\lvgl_examples.dir\\examples\\porting\\lv_port_lcd_stm32_template.c.obj -c C:\\Users\\turga\\Workspaces\\embedded-software-ws\\C++\\VSCode\\Pico\\Projects\\ST7789-LVGL-Demo\\third-party\\lvgl\\examples\\porting\\lv_port_lcd_stm32_template.c",
-  "file": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/examples/porting/lv_port_lcd_stm32_template.c",
-  "output": "third-party/lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.obj"
 },
 {
   "directory": "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/vscode-build-cmake/third-party/lvgl",

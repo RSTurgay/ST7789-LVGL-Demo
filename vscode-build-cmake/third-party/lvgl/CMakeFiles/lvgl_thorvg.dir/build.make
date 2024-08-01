@@ -599,49 +599,49 @@ lvgl_thorvg_OBJECTS = \
 # External object files for target lvgl_thorvg
 lvgl_thorvg_EXTERNAL_OBJECTS =
 
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAnimation.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCanvas.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCapi.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCompressor.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgFill.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgInitializer.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLoader.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgMath.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgPaint.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgPicture.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgRawLoader.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgRender.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSaver.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgScene.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgShape.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgStr.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgCssStyle.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgLoader.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgPath.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgSceneBuilder.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgUtil.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwCanvas.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwFill.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwImage.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMath.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMemPool.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRaster.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRenderer.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRle.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwShape.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwStroke.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgTaskScheduler.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgXmlParser.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.obj
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/build.make
-lib/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX static library ..\..\lib\liblvgl_thorvg.a"
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgAnimation.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgBezier.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCanvas.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCapi.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgCompressor.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgFill.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgInitializer.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgLoader.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgMath.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgPaint.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgPicture.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgRawLoader.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgRender.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSaver.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgScene.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgShape.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgStr.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgCssStyle.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgLoader.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgPath.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgSceneBuilder.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSvgUtil.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwCanvas.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwFill.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwImage.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMath.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwMemPool.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRaster.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRenderer.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwRle.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwShape.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgSwStroke.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgTaskScheduler.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/libs/thorvg/tvgXmlParser.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/src/others/vg_lite_tvg/vg_lite_tvg.cpp.obj
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/build.make
+third-party/lvgl/liblvgl_thorvg.a: third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX static library liblvgl_thorvg.a"
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\third-party\lvgl && $(CMAKE_COMMAND) -P CMakeFiles\lvgl_thorvg.dir\cmake_clean_target.cmake
 	cd /d C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\vscode-build-cmake\third-party\lvgl && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\lvgl_thorvg.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/build: lib/liblvgl_thorvg.a
+third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/build: third-party/lvgl/liblvgl_thorvg.a
 .PHONY : third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/build
 
 third-party/lvgl/CMakeFiles/lvgl_thorvg.dir/clean:

@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/liblvgl_thorvg.a"
+			"path" : "third-party/lvgl/liblvgl_thorvg.a"
 		}
 	],
 	"backtrace" : 3,
@@ -13,8 +13,6 @@
 		[
 			"add_library",
 			"include",
-			"install",
-			"target_link_libraries",
 			"target_include_directories"
 		],
 		"files" : 
@@ -40,25 +38,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 48,
+				"line" : 43,
 				"parent" : 2
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 145,
-				"parent" : 2
-			},
-			{
-				"command" : 3,
-				"file" : 0,
-				"line" : 51,
-				"parent" : 2
-			},
-			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 50,
+				"line" : 45,
 				"parent" : 2
 			}
 		]
@@ -72,28 +58,12 @@
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g -std=gnu++17"
 				}
 			],
-			"defines" : 
-			[
-				{
-					"backtrace" : 5,
-					"define" : "LV_CONF_INCLUDE_SIMPLE"
-				},
-				{
-					"backtrace" : 5,
-					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
-				}
-			],
 			"includes" : 
 			[
 				{
-					"backtrace" : 6,
+					"backtrace" : 4,
 					"isSystem" : true,
 					"path" : "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/libs/thorvg"
-				},
-				{
-					"backtrace" : 5,
-					"isSystem" : true,
-					"path" : "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl"
 				}
 			],
 			"language" : "CXX",
@@ -145,28 +115,7 @@
 			]
 		}
 	],
-	"dependencies" : 
-	[
-		{
-			"backtrace" : 5,
-			"id" : "lvgl::@6973831e14f25c83031d"
-		}
-	],
 	"id" : "lvgl_thorvg::@6973831e14f25c83031d",
-	"install" : 
-	{
-		"destinations" : 
-		[
-			{
-				"backtrace" : 4,
-				"path" : "lib"
-			}
-		],
-		"prefix" : 
-		{
-			"path" : "C:/Program Files (x86)/st7789_lvgl_demo"
-		}
-	},
 	"name" : "lvgl_thorvg",
 	"nameOnDisk" : "liblvgl_thorvg.a",
 	"paths" : 

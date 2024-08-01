@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "../../lib/liblvgl_examples.a"
-  "../../lib/liblvgl_examples.pdb"
   "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_1.c.obj"
   "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_1.c.obj.d"
   "CMakeFiles/lvgl_examples.dir/examples/anim/lv_example_anim_2.c.obj"
@@ -169,8 +167,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_fs_template.c.obj.d"
   "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.obj"
   "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_indev_template.c.obj.d"
-  "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.obj"
-  "CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_lcd_stm32_template.c.obj.d"
   "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.obj"
   "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_1.c.obj.d"
   "CMakeFiles/lvgl_examples.dir/examples/scroll/lv_example_scroll_2.c.obj"
@@ -387,6 +383,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/lvgl_examples.dir/examples/widgets/tileview/lv_example_tileview_1.c.obj.d"
   "CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.obj"
   "CMakeFiles/lvgl_examples.dir/examples/widgets/win/lv_example_win_1.c.obj.d"
+  "liblvgl_examples.a"
+  "liblvgl_examples.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -3,6 +3,7 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/widgets/canvas/lv_canvas.c.obj: \
  C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl\src\widgets\canvas\lv_canvas.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_kconfig.h \
+ C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl/lv_conf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\image\lv_image.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
@@ -49,9 +50,8 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/widgets/canvas/lv_canvas.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_palette.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color_op.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_image_buf.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\stdlib\lv_string.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_image_dsc.h \
- c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_area.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\cache\lv_cache.h \
@@ -100,6 +100,7 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/widgets/canvas/lv_canvas.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_array.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_color.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\draw\lv_draw.h \
+ c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_types.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_style.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\misc\lv_text.h \

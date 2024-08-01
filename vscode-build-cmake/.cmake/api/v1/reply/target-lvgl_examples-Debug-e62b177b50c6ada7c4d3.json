@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/liblvgl_examples.a"
+			"path" : "third-party/lvgl/liblvgl_examples.a"
 		}
 	],
 	"backtrace" : 3,
@@ -13,7 +13,6 @@
 		[
 			"add_library",
 			"include",
-			"install",
 			"target_link_libraries",
 			"target_include_directories"
 		],
@@ -40,25 +39,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 56,
+				"line" : 53,
 				"parent" : 2
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 181,
+				"line" : 57,
 				"parent" : 2
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 60,
-				"parent" : 2
-			},
-			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 59,
+				"line" : 56,
 				"parent" : 2
 			}
 		]
@@ -75,23 +68,23 @@
 			"defines" : 
 			[
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"define" : "LV_CONF_INCLUDE_SIMPLE"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
 				}
 			],
 			"includes" : 
 			[
 				{
-					"backtrace" : 6,
+					"backtrace" : 5,
 					"isSystem" : true,
 					"path" : "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/examples"
 				},
 				{
-					"backtrace" : 5,
+					"backtrace" : 4,
 					"isSystem" : true,
 					"path" : "C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl"
 				}
@@ -298,33 +291,18 @@
 				188,
 				189,
 				190,
-				191,
-				192
+				191
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 5,
+			"backtrace" : 4,
 			"id" : "lvgl::@6973831e14f25c83031d"
 		}
 	],
 	"id" : "lvgl_examples::@6973831e14f25c83031d",
-	"install" : 
-	{
-		"destinations" : 
-		[
-			{
-				"backtrace" : 4,
-				"path" : "lib"
-			}
-		],
-		"prefix" : 
-		{
-			"path" : "C:/Program Files (x86)/st7789_lvgl_demo"
-		}
-	},
 	"name" : "lvgl_examples",
 	"nameOnDisk" : "liblvgl_examples.a",
 	"paths" : 
@@ -529,8 +507,7 @@
 				188,
 				189,
 				190,
-				191,
-				192
+				191
 			]
 		}
 	],
@@ -1038,12 +1015,6 @@
 			"backtrace" : 3,
 			"compileGroupIndex" : 0,
 			"path" : "third-party/lvgl/examples/porting/lv_port_indev_template.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 3,
-			"compileGroupIndex" : 0,
-			"path" : "third-party/lvgl/examples/porting/lv_port_lcd_stm32_template.c",
 			"sourceGroupIndex" : 0
 		},
 		{
