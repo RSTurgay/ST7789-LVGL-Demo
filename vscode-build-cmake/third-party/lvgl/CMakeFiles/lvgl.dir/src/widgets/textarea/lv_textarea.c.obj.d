@@ -4,7 +4,6 @@ third-party/lvgl/CMakeFiles/lvgl.dir/src/widgets/textarea/lv_textarea.c.obj: \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\widgets\label\lv_label.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_kconfig.h \
- C:\Users\turga\Workspaces\embedded-software-ws\C++\VSCode\Pico\Projects\ST7789-LVGL-Demo\third-party\lvgl/lv_conf.h \
  c:\progra~2\gnuarm~1\102021~1.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\core\lv_obj.h \
  c:\users\turga\workspaces\embedded-software-ws\c++\vscode\pico\projects\st7789-lvgl-demo\third-party\lvgl\src\lv_conf_internal.h \

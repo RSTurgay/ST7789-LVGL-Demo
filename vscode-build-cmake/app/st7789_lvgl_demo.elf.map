@@ -1816,9 +1816,9 @@ Discarded input sections
  .bss           0x00000000        0x0 ..\lib\liblvgl.a(lv_utils.c.obj)
  .data          0x00000000        0x0 ..\lib\liblvgl.a(lv_image_cache.c.obj)
  .bss           0x00000000        0x0 ..\lib\liblvgl.a(lv_image_cache.c.obj)
- .text          0x00000000        0x0 C:\Users\turga\AppData\Local\Temp\cckwWR2v.o
- .data          0x00000000        0x0 C:\Users\turga\AppData\Local\Temp\cckwWR2v.o
- .bss           0x00000000        0x0 C:\Users\turga\AppData\Local\Temp\cckwWR2v.o
+ .text          0x00000000        0x0 C:\Users\turga\AppData\Local\Temp\ccKUzIbo.o
+ .data          0x00000000        0x0 C:\Users\turga\AppData\Local\Temp\ccKUzIbo.o
+ .bss           0x00000000        0x0 C:\Users\turga\AppData\Local\Temp\ccKUzIbo.o
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_ffssi2.o)
@@ -2044,7 +2044,7 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../
 .boot2          0x10000000      0x100
                 0x10000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x10000000      0x100 C:\Users\turga\AppData\Local\Temp\cckwWR2v.o
+ .boot2         0x10000000      0x100 C:\Users\turga\AppData\Local\Temp\ccKUzIbo.o
                 0x10000100                __boot2_end__ = .
                 0x00000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
@@ -5142,7 +5142,7 @@ LOAD CMakeFiles/st7789_lvgl_demo.dir/C_/Users/turga/Embedded-SDK/Pico/pico-sdk/l
 LOAD CMakeFiles/st7789_lvgl_demo.dir/5ff0c5eb8c4f8e4dd3570196dfcedbba/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
 LOAD CMakeFiles/st7789_lvgl_demo.dir/C_/Users/turga/Embedded-SDK/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
 LOAD ..\lib\liblvgl.a
-LOAD C:\Users\turga\AppData\Local\Temp\cckwWR2v.o
+LOAD C:\Users\turga\AppData\Local\Temp\ccKUzIbo.o
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
 START GROUP
@@ -5467,7 +5467,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x0000198c       0x2c ..\lib\liblvgl.a(lv_image_cache.c.obj)
  .ARM.attributes
-                0x000019b8       0x22 C:\Users\turga\AppData\Local\Temp\cckwWR2v.o
+                0x000019b8       0x22 C:\Users\turga\AppData\Local\Temp\ccKUzIbo.o
  .ARM.attributes
                 0x000019da       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes

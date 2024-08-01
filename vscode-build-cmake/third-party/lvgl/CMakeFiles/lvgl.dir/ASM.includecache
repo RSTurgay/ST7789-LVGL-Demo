@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/lv_conf.h
-my_include.h
-C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/my_include.h
-
 C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/draw/sw/blend/arm2d/lv_blend_arm2d.h
 ../../../../lv_conf_internal.h
 C:/Users/turga/Workspaces/embedded-software-ws/C++/VSCode/Pico/Projects/ST7789-LVGL-Demo/third-party/lvgl/src/lv_conf_internal.h
